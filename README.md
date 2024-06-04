@@ -1,5 +1,5 @@
 # Predictor-de-precios-de-automoviles
-Analisis de base de datos con Python. Predictor de precio por caracteristicas de vehiculos varios 
+Proyecto de analisis de base de datos con Python. Predictor de precio por caracteristicas de vehiculos varios 
 Versiones utilizadas 
 Python 3.1
 librerias:
